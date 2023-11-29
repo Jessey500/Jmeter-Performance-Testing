@@ -1,5 +1,4 @@
 # Jmeter-Performance-Testing
-//<img src="Image/SS-3.png">
 # Content
 
 - [Load testing Report](https://github.com/imranhasanraaz/jmeter-perfomance-testing#load-testing-report)
@@ -138,7 +137,7 @@ After completing this command
 
 Requests Summary             |  Errors
 :-------------------------:|:-------------------------:
-![1](https://github.com/imranhasanraaz/jmeter-perfomance-testing/assets/110620143/920735d6-5aa3-44d9-bb70-5740c1e942f7)  |  ![2](https://github.com/imranhasanraaz/jmeter-perfomance-testing/assets/110620143/38ffa17b-1912-4d18-a32b-719b9b705e3a)
+![1] <img src="Image/SS-3.png">  |  ![2](https://github.com/imranhasanraaz/jmeter-perfomance-testing/assets/110620143/38ffa17b-1912-4d18-a32b-719b9b705e3a)
 
 **Number of Threads 300 ; Ramp-Up Period 11s**
    
