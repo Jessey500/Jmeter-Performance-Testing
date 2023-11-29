@@ -1,6 +1,5 @@
 # Jmeter-Performance-Testing
 # Content
-
 - [Load testing Report](https://github.com/imranhasanraaz/jmeter-perfomance-testing#load-testing-report)
 - [Load testing Report](https://github.com/imranhasanraaz/jmeter-perfomance-testing#Summary)
 - [Introduction](https://github.com/imranhasanraaz/jmeter-perfomance-testing#introduction)  
@@ -19,14 +18,14 @@
 
 | Concurrent Request  | Loop Count | Avg TPS for Total Samples  | Error Rate | Total Concurrent API request |
 |               :---: |      :---: |                      :---: |                        :---: |      :---: |
-| 200  | 1  | 2.7  | 0%      | 1000   |
-| 300  | 1  |  4.4     | 0%      | 1500   |
-| 400  | 1  |  8    | 0.35%   | 2000   |
+| 200  | 1  | 11  | 0%      | 2200   |
+| 250  | 1  |  9.5     | 0%      | 2750   |
+| 300  | 1  |  12    | 0.09%   | 3300   |
 
 
 ### Summary
-- While executed 400 concurrent request, found  7 request got connection timeout and error rate is 0.35%.
-- Server can handle almost concurrent 300 API call with almost zero (0) error rate.
+- While executed 300 concurrent request, found  3 request got connection timeout and error rate is 0.09%.
+- Server can handle almost concurrent 250 API call with almost zero (0) error rate.
 
 
 # Introduction
@@ -117,7 +116,7 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
 ```bash
   jmeter -n -t  simpleLearn_u200.jmx -l simpleLearn_u200.jtl
 ```      
-  Then continue to upgrade Threads(200 to 400) by keeping Ramp-up Same.   
+  Then continue to upgrade Threads(200 to 300) by keeping Ramp-up Same.   
 
 After completing this command  
    ### Make html file   
@@ -129,7 +128,7 @@ After completing this command
 
   - **o**: path to output folder
   - \
-    ![Capture](https://github.com/imranhasanraaz/jmeter-perfomance-testing/assets/110620143/eedfa7ad-4c4b-4bf2-9849-c2e2be8d3d0c)  
+    ![Capture](<img src="Image/SS-2.png">)  
 
 # HTML Report
 
@@ -137,16 +136,16 @@ After completing this command
 
 Requests Summary             |  Errors
 :-------------------------:|:-------------------------:
-![1] <img src="Image/SS-3.png">  |  ![2](https://github.com/imranhasanraaz/jmeter-perfomance-testing/assets/110620143/38ffa17b-1912-4d18-a32b-719b9b705e3a)
+![1] <img src="Image/SS-3.png">  |  ![2](<img src="Image/SS-5.png">)
 
-**Number of Threads 300 ; Ramp-Up Period 11s**
+**Number of Threads 250 ; Ramp-Up Period 1s**
    
 Requests Summary             |  Errors
 :-------------------------:|:-------------------------:
-![3](https://github.com/imranhasanraaz/jmeter-perfomance-testing/assets/110620143/d1bf207c-3927-48d4-a9c4-449b4689047c) |  ![4](https://github.com/imranhasanraaz/jmeter-perfomance-testing/assets/110620143/05daa31b-aece-4474-9ea9-b79c9a63bf63)
+![3](<img src="Image/SS-3.png">) |  ![4](<img src="Image/SS-6.png">)
 
-**Number of Threads 400 ; Ramp-Up Period 1s**
+**Number of Threads 300 ; Ramp-Up Period 1s**
    
 Requests Summary             |  Errors
 :-------------------------:|:-------------------------:
-![5](https://github.com/imranhasanraaz/jmeter-perfomance-testing/assets/110620143/bb07a2f1-677a-4bea-b551-262769e23620)  |  ![6](https://github.com/imranhasanraaz/jmeter-perfomance-testing/assets/110620143/d8ff121d-8b61-4f34-91ca-9d16d7aae12d)
+![5](<img src="Image/SS-7.png">)  |  ![6](<img src="Image/SS-8.png">)
