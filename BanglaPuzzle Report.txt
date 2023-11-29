@@ -1,0 +1,25 @@
+Extract data for reporting in jmeter
+============================================
+
+I’ve completed performance test on frequently used API for test App.
+Test executed for the below mentioned scenario in 
+1.(PRODUCTS Page) https://www.banglapuzzle.com/products  =>
+	(SERVICES Page) https://www.banglapuzzle.com/services  =>
+		(HEALTHCARE Page) https://www.banglapuzzle.com/industry/healthcare  =>
+			(SOFTWARE/ITES Page)  https://www.banglapuzzle.com/industry/softwareites  =>
+				(RMG SECTOR Page)  https://www.banglapuzzle.com/industry/rmg-sector  ==>
+                                     (GOVERNMENT & DEFENSE Page)  https://www.banglapuzzle.com/industry/government-defense  ==>
+                                         (ABOUT Page)  https://www.banglapuzzle.com/about  ==> 
+                                               (CAREER Page)  https://www.banglapuzzle.com/career  ==> 
+                                                   (CONTACT Page)  https://www.banglapuzzle.com/contact  ==>   
+                                                        (HIRE Page) https://www.banglapuzzle.com/hire ==>
+                                                            (SUBCATEGORY-FLUTTER Page)  https://www.banglapuzzle.com/hire/subcategory-flutter 
+
+200 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 11 And Total Concurrent API requested: 2200.
+250 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 9.5 And Total Concurrent API requested: 2750.
+300 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 12 And Total Concurrent API requested: 3300.
+
+
+While executed 300 concurrent request, found  3 request got connection timeout and error rate is 0.09%.
+
+Summary: Server can handle almost concurrent 250 API call with almost zero (0) error rate.
