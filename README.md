@@ -136,16 +136,16 @@ After completing this command
 
 Requests Summary             |  Errors
 :-------------------------:|:-------------------------:
-![1] <img src="Image/SS-3.png">  |  ![2](<img src="Image/SS-5.png">)
+!<img src="Image/SS-3.png">  |  ![2]<img src="Image/SS-5.png">
 
 **Number of Threads 250 ; Ramp-Up Period 1s**
    
 Requests Summary             |  Errors
 :-------------------------:|:-------------------------:
-![3](<img src="Image/SS-3.png">) |  ![4](<img src="Image/SS-6.png">)
+![3]<img src="Image/SS-3.png"> |  ![4]<img src="Image/SS-6.png">
 
 **Number of Threads 300 ; Ramp-Up Period 1s**
    
 Requests Summary             |  Errors
 :-------------------------:|:-------------------------:
-![5](<img src="Image/SS-7.png">)  |  ![6](<img src="Image/SS-8.png">)
+![5]<img src="Image/SS-7.png">  |  ![6]<img src="Image/SS-8.png">
