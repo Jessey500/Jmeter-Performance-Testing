@@ -130,7 +130,7 @@ After completing this command
 
 Requests Summary             |  Errors
 :-------------------------:|:-------------------------:
-!<img src="Image/SS-3.png">  |  !<img src="Image/SS-5.png">
+<img src="Image/SS-3.png">  |  <img src="Image/SS-5.png">
 
 **Number of Threads 250 ; Ramp-Up Period 1s**
    
