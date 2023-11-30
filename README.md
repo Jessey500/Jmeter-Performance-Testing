@@ -95,7 +95,7 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
    - Continue open simpleLearn_u200.jmx to simpleLearn_u400.jmx
    - Open those file
    - The Test Plan will be loaded
-![loadjmx](https://github.com/imranhasanraaz/jmeter-perfomance-testing/assets/110620143/8cc4198b-ab6e-4231-bd38-693ff3a99da7)
+![loadjmx](<img src="Image/SS-1.png">)
 
 
 # Test execution (from the Terminal)
