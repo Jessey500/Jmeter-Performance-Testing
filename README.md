@@ -1,17 +1,16 @@
 # Content
 - [Load testing Report](https://github.com/Jessey500/Jmeter-Performance-Testing#load-testing-report)
 - [Load testing Report](https://github.com/Jessey500/Jmeter-Perfomance-Testing#Summary)
-- [Introduction](https://github.com/imranhasanraaz/jmeter-perfomance-testing#introduction)  
-- [Install](https://github.com/imranhasanraaz/jmeter-perfomance-testingstall)      
-- [Prerequisites](https://github.com/imranhasanraaz/jmeter-perfomance-testing#prerequisites)
-- [Elements of a Minimal Test Plan](https://github.com/imranhasanraaz/jmeter-perfomance-testing#Elements-of-a-minimal-test-plan)    
-- [Test Plan](https://github.com/imranhasanraaz/jmeter-perfomance-testing#test-plan)
-- [Collection of API](https://github.com/imranhasanraaz/jmeter-perfomance-testing#collection-of-api)   
-- [List of API](https://github.com/imranhasanraaz/jmeter-perfomance-testing#list-of-api) 
-- [Load the JMeter Script](https://github.com/imranhasanraaz/jmeter-perfomance-testing#load-the-jmeter-script)
-- [Make jtl File](https://github.com/imranhasanraaz/jmeter-perfomance-testing#make-jtl-file)  
-- [Make html File](https://github.com/imranhasanraaz/jmeter-perfomance-testing#make-html-file)  
-- [HTML Report](https://github.com/imranhasanraaz/jmeter-perfomance-testing#html-report) 
+- [Introduction](https://github.com/Jessey500/Jmeter-Perfomance-Testing#introduction)      
+- [Prerequisites](https://github.com/Jessey500/Jmeter-Perfomance-Testing#prerequisites)
+- [Elements of a Minimal Test Plan](https://github.com/Jessey500/Jmeter-Perfomance-Testing#Elements-of-a-minimal-test-plan)    
+- [Test Plan](https://github.com/Jessey500/Jmeter-Perfomance-Testing#test-plan)
+- [Collection of API](https://github.com/Jessey500/Jmeter-Perfomance-Testing#collection-of-api)   
+- [List of API](https://github.com/Jessey500/Jmeter-Perfomance-Testing#list-of-api) 
+- [Load the JMeter Script](https://github.com/Jessey500/Jmeter-Perfomance-Testing#load-the-jmeter-script)
+- [Make jtl File](https://github.com/Jessey500/Jmeter-Perfomance-Testing#make-jtl-file)  
+- [Make html File](https://github.com/Jessey500/Jmeter-Perfomance-Testing#make-html-file)  
+- [HTML Report](https://github.com/Jessey500/Jmeter-Perfomance-Testing#html-report) 
 
 # Load testing Report
 
