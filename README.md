@@ -108,7 +108,7 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
  ### Make jtl file
 
 ```bash
-  jmeter -n -t  simpleLearn_u200.jmx -l simpleLearn_u200.jtl
+  jmeter -n -t  BanglaPuzzle-300.jmx -l BanglaPuzzle-300.jtl
 ```      
   Then continue to upgrade Threads(200 to 300) by keeping Ramp-up Same.   
 
@@ -116,7 +116,7 @@ After completing this command
    ### Make html file   
   
   ```bash
-  jmeter -g report\simpleLearn_u200.jtl -o simpleLearn_u200.html
+  jmeter -g Banglapuzzle-300.jtl -o report\Banglapuzzle-300.html
 ```
   - **g**: jtl results file
 
