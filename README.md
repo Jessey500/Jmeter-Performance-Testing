@@ -121,6 +121,8 @@ After completing this command
 
   - **o**: path to output folder
   - \
+  - ![SS-2](https://github.com/Jessey500/Jmeter-Performance-Testing/assets/72730536/dbeec807-146d-4718-a4e0-bd607a6269af)
+
     ![Capture](<img src="Image/SS-2.png">)  
 
 # HTML Report
