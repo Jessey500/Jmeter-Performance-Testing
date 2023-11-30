@@ -1,16 +1,16 @@
 # Content
 - [Load testing Report](https://github.com/Jessey500/Jmeter-Performance-Testing#load-testing-report)
-- [Load testing Report](https://github.com/Jessey500/Jmeter-Perfomance-Testing#Summary)
-- [Introduction](https://github.com/Jessey500/Jmeter-Perfomance-Testing#Introduction)      
+- [Load testing Report](https://github.com/Jessey500/Jmeter-Performance-Testing#Summary)
+- [Introduction](https://github.com/Jessey500/Jmeter-Performance-Testing#Introduction)      
 - [Prerequisites](https://github.com/Jessey500/Jmeter-Performance-Testing#prerequisites)
-- [Elements of a Minimal Test Plan](https://github.com/Jessey500/Jmeter-Perfomance-Testing#Elements-of-a-minimal-test-plan)    
-- [Test Plan](https://github.com/Jessey500/Jmeter-Perfomance-Testing#test-plan)
-- [Collection of API](https://github.com/Jessey500/Jmeter-Perfomance-Testing#collection-of-api)   
-- [List of API](https://github.com/Jessey500/Jmeter-Perfomance-Testing#list-of-api) 
-- [Load the JMeter Script](https://github.com/Jessey500/Jmeter-Perfomance-Testing#load-the-jmeter-script)
-- [Make jtl File](https://github.com/Jessey500/Jmeter-Perfomance-Testing#make-jtl-file)  
-- [Make html File](https://github.com/Jessey500/Jmeter-Perfomance-Testing#make-html-file)  
-- [HTML Report](https://github.com/Jessey500/Jmeter-Perfomance-Testing#html-report) 
+- [Elements of a Minimal Test Plan](https://github.com/Jessey500/Jmeter-Performance-Testing#Elements-of-a-minimal-test-plan)    
+- [Test Plan](https://github.com/Jessey500/Jmeter-Performance-Testing#test-plan)
+- [Collection of API](https://github.com/Jessey500/Jmeter-Performance-Testing#collection-of-api)   
+- [List of API](https://github.com/Jessey500/Jmeter-Performance-Testing#list-of-api) 
+- [Load the JMeter Script](https://github.com/Jessey500/Jmeter-Performance-Testing#load-the-jmeter-script)
+- [Make jtl File](https://github.com/Jessey500/Jmeter-Performance-Testing#make-jtl-file)  
+- [Make html File](https://github.com/Jessey500/Jmeter-Performance-Testing#make-html-file)  
+- [HTML Report](https://github.com/Jessey500/Jmeter-Performance-Testing#html-report) 
 
 # Load testing Report
 
