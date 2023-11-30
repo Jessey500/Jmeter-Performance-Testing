@@ -30,21 +30,8 @@
 
 # Introduction
 
-This document explains how to run a performance test with JMeter against an simplelearn.com.
+This document explains how to run a performance test with JMeter against as https://www.banglapuzzle.com/.
 
-# Install
-
-**Java**  
-https://www.oracle.com/java/technologies/downloads/
-
-**JMeter**  
-https://jmeter.apache.org/download_jmeter.cgi  
-
-Click =>Binaries    
-=>**apache-jmeter-5.6.2.zip**
-
-**We use BlazeMeter to generate JMX files**    
-https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbohhpnfglgohlbhfongabi?hl=en
 
 # Prerequisites
 - As of JMeter 5.6, Java 8 and above are supported.
@@ -68,7 +55,7 @@ https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbo
 Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on the jMeter version you are using)
 
 - Name: Users
-- Number of Threads (users): 200 to 400
+- Number of Threads (users): 200 to 300
 - Ramp-Up Period (in seconds): 1
 - Loop Count: 1
 
@@ -88,7 +75,7 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
 
     ### List of API 
 
-    - [https://www.simplilearn.com/](https://www.simplilearn.com/)
+    - [https://www.banglapuzzle.com/products](https://www.banglapuzzle.com/products)
     - [https://www.simplilearn.com/resources](https://www.simplilearn.com/resources)
     - [https://www.simplilearn.com/business](https://www.simplilearn.com/business)
     - [https://www.simplilearn.com/become-our-trainer](https://www.simplilearn.com/become-our-trainer)
