@@ -95,7 +95,8 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
    - Continue open simpleLearn_u200.jmx to simpleLearn_u400.jmx
    - Open those file
    - The Test Plan will be loaded
-![loadjmx](<img src="Image/SS-1.png">)
+//![loadjmx](<img src="Image/SS-1.png">)
+![Capture](<img src="Image/SS-1.png">)
 
 
 # Test execution (from the Terminal)
