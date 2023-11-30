@@ -93,8 +93,8 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
    - Continue open BanglaPuzzle-200.jmx to BanglaPuzzle-300.jmx
    - Open those file
    - The Test Plan will be loaded
-//![loadjmx](<img src="Image/SS-1.png">)
-[Capture](<img src="Image/SS-1.png">)
+![SS-1](https://github.com/Jessey500/Jmeter-Performance-Testing/assets/72730536/24aceb9f-d573-42df-bc17-f5dfa50946d0)
+
 
 
 # Test execution (from the Terminal)
@@ -120,9 +120,7 @@ After completing this command
 
   - **o**: path to output folder
   - \
-  - ![SS-2](https://github.com/Jessey500/Jmeter-Performance-Testing/assets/72730536/dbeec807-146d-4718-a4e0-bd607a6269af)
-
-    ![Capture](<img src="Image/SS-2.png">)  
+  - ![SS-2](https://github.com/Jessey500/Jmeter-Performance-Testing/assets/72730536/dbeec807-146d-4718-a4e0-bd607a6269af) 
 
 # HTML Report
 
