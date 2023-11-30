@@ -28,7 +28,7 @@
 
 # Introduction
 
-This document explains how to run a performance test with JMeter against as https://www.banglapuzzle.com/.
+This document explains how to run a performance test with JMeter against as banglapuzzle.com.
 
 
 # Prerequisites
