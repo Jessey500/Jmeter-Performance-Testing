@@ -76,10 +76,16 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
     ### List of API 
 
     - [https://www.banglapuzzle.com/products](https://www.banglapuzzle.com/products)
-    - [https://www.simplilearn.com/resources](https://www.simplilearn.com/resources)
-    - [https://www.simplilearn.com/business](https://www.simplilearn.com/business)
-    - [https://www.simplilearn.com/become-our-trainer](https://www.simplilearn.com/become-our-trainer)
-    - [https://www.simplilearn.com/reseller-partner-program-for-training-courses](https://www.simplilearn.com/reseller-partner-program-for-training-courses)
+    - [https://www.banglapuzzle.com/services](https://www.banglapuzzle.com/services)
+    - [https://www.banglapuzzle.com/industry/healthcare](https://www.banglapuzzle.com/industry/healthcare)
+    - [https://www.banglapuzzle.com/industry/softwareites](https://www.banglapuzzle.com/industry/softwareites)
+    - [https://www.banglapuzzle.com/industry/rmg-sector](https://www.banglapuzzle.com/industry/rmg-sector)
+    - [https://www.banglapuzzle.com/industry/government-defense](https://www.banglapuzzle.com/industry/government-defense)
+    - [https://www.banglapuzzle.com/about](https://www.banglapuzzle.com/about)
+    - [https://www.banglapuzzle.com/career](https://www.banglapuzzle.com/career)
+    - [https://www.banglapuzzle.com/contact](https://www.banglapuzzle.com/contact)
+    - [https://www.banglapuzzle.com/hire](https://www.banglapuzzle.com/hire)
+    - [ https://www.banglapuzzle.com/hire/subcategory-flutter]( https://www.banglapuzzle.com/hire/subcategory-flutter)
 
    **OR**
     
