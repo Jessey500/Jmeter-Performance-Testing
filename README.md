@@ -1,4 +1,3 @@
-# Jmeter-Performance-Testing
 # Content
 - [Load testing Report](https://github.com/imranhasanraaz/jmeter-perfomance-testing#load-testing-report)
 - [Load testing Report](https://github.com/imranhasanraaz/jmeter-perfomance-testing#Summary)
@@ -8,8 +7,8 @@
 - [Elements of a Minimal Test Plan](https://github.com/imranhasanraaz/jmeter-perfomance-testing#Elements-of-a-minimal-test-plan)    
 - [Test Plan](https://github.com/imranhasanraaz/jmeter-perfomance-testing#test-plan)
 - [Collection of API](https://github.com/imranhasanraaz/jmeter-perfomance-testing#collection-of-api)   
-    - [List of API](https://github.com/imranhasanraaz/jmeter-perfomance-testing#list-of-api) 
-    - [Load the JMeter Script](https://github.com/imranhasanraaz/jmeter-perfomance-testing#load-the-jmeter-script)
+- [List of API](https://github.com/imranhasanraaz/jmeter-perfomance-testing#list-of-api) 
+- [Load the JMeter Script](https://github.com/imranhasanraaz/jmeter-perfomance-testing#load-the-jmeter-script)
 - [Make jtl File](https://github.com/imranhasanraaz/jmeter-perfomance-testing#make-jtl-file)  
 - [Make html File](https://github.com/imranhasanraaz/jmeter-perfomance-testing#make-html-file)  
 - [HTML Report](https://github.com/imranhasanraaz/jmeter-perfomance-testing#html-report) 
@@ -91,8 +90,8 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
     
   ### Load the JMeter Script 
    - File > Open (CTRL + O)
-   - Locate the "simpleLearn_u200.jmx" file contained on this repo
-   - Continue open simpleLearn_u200.jmx to simpleLearn_u400.jmx
+   - Locate the "BanglaPuzzle-300.jmx" file contained on this repo
+   - Continue open BanglaPuzzle-200.jmx to BanglaPuzzle-300.jmx
    - Open those file
    - The Test Plan will be loaded
 //![loadjmx](<img src="Image/SS-1.png">)
