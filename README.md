@@ -96,7 +96,7 @@ Testplan > Add > Threads (Users) > Thread Group (this might vary dependent on th
    - Open those file
    - The Test Plan will be loaded
 //![loadjmx](<img src="Image/SS-1.png">)
-![Capture](<img src="Image/SS-1.png">)
+[Capture](<img src="Image/SS-1.png">)
 
 
 # Test execution (from the Terminal)
@@ -136,10 +136,10 @@ Requests Summary             |  Errors
    
 Requests Summary             |  Errors
 :-------------------------:|:-------------------------:
-!<img src="Image/SS-3.png"> |  !<img src="Image/SS-6.png">
+<img src="Image/SS-3.png"> |  <img src="Image/SS-6.png">
 
 **Number of Threads 300 ; Ramp-Up Period 1s**
    
 Requests Summary             |  Errors
 :-------------------------:|:-------------------------:
-!<img src="Image/SS-7.png">  |  !<img src="Image/SS-8.png">
+<img src="Image/SS-7.png">  |  <img src="Image/SS-8.png">
