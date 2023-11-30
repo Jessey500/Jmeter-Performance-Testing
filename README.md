@@ -1,6 +1,6 @@
 # Content
-- [Load testing Report](https://github.com/imranhasanraaz/jmeter-perfomance-testing#load-testing-report)
-- [Load testing Report](https://github.com/imranhasanraaz/jmeter-perfomance-testing#Summary)
+- [Load testing Report](https://github.com/Jessey500/Jmeter-Performance-Testing#load-testing-report)
+- [Load testing Report](https://github.com/Jessey500/jmeter-perfomance-testing#Summary)
 - [Introduction](https://github.com/imranhasanraaz/jmeter-perfomance-testing#introduction)  
 - [Install](https://github.com/imranhasanraaz/jmeter-perfomance-testingstall)      
 - [Prerequisites](https://github.com/imranhasanraaz/jmeter-perfomance-testing#prerequisites)
