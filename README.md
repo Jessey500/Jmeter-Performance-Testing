@@ -2,7 +2,7 @@
 - [Load testing Report](https://github.com/Jessey500/Jmeter-Performance-Testing#load-testing-report)
 - [Load testing Report](https://github.com/Jessey500/Jmeter-Perfomance-Testing#Summary)
 - [Introduction](https://github.com/Jessey500/Jmeter-Perfomance-Testing#introduction)      
-- [Prerequisites](https://github.com/Jessey500/Jmeter-Perfomance-Testing#prerequisites)
+- [Prerequisites](https://github.com/Jessey500/Jmeter-Performance-Testing#prerequisites)
 - [Elements of a Minimal Test Plan](https://github.com/Jessey500/Jmeter-Perfomance-Testing#Elements-of-a-minimal-test-plan)    
 - [Test Plan](https://github.com/Jessey500/Jmeter-Perfomance-Testing#test-plan)
 - [Collection of API](https://github.com/Jessey500/Jmeter-Perfomance-Testing#collection-of-api)   
